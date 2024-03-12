@@ -80,14 +80,22 @@ The historical stock price data for Microsoft (MSFT) is downloaded using the yfi
    - Initial Amount: $100
    - Positive Return: 0.38%
    - Total Return Amount: $100.38
+
+  ![Result-1](images/result-1.png)
+
 2. **Threshold = 0.001:**
    - Initial Amount: $100
    - Positive Return: 3.4%
    - Total Return Amount: $103.4
+  
+  ![Result-1](images/result-2.png)
+
 3. **Threshold = 0.005:**
    - Initial Amount: $100
    - Positive Return: 7.45%
    - Total Return Amount: $107.45
+   
+  ![Result-1](images/result-3.png)
 
 
 ## How to Contribute
